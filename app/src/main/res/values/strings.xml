@@ -1,0 +1,185 @@
+<resources>
+    <string name="app_name">Wisata Kudus</string>
+    <string name="image">image</string>
+    <string name="nama_wisata">Nama Wisata</string>
+    <string name="alamat">Alamat</string>
+    <string name="jenis_wisata">Jenis Wisata</string>
+    <string name="deskripsi_singkat_wisata">Deskripsi Singkat Wisata</string>
+    <string name="nofi">Nofiati</string>
+    <string name="Email">Noufie236Danieels@gmail@gmail.com</string>
+    <string name="deskripsi_wisata">Deskripsi Wisata</string>
+    <string name="profil">Profil</string>
+    <string name="home">Home</string>
+    <string name="nama_kuliner">Nama Kuliner</string>
+    <string name="deskripsi_singkat_kuliner">Deskripsi Singkat Kuliner</string>
+    <string name="jenis_wisata_kuliner">Jenis Wisata Kuliner</string>
+    <string name="share">Share</string>
+    <string name="button">button</string>
+    <string name="detail">Detail</string>
+    <string name="aplikasi_sistem_informasi_wisata_kudus">Aplikasi Wisata Kudus</string>
+    <string name="deskripsi_kuliner">Deskripsi Kuliner</string>
+    <string name="nama">Nama</string>
+    <string name="colon">:</string>
+    <string name="my_profil">My Profil</string>
+    <string name="semester">Semester</string>
+    <string name="email">Email Dicoding</string>
+    <string name="back">back</string>
+    <string name="wisata_kudus">WISATA KUDUS</string>
+    <string name="_6_enam">6 ( Enam )</string>
+    <string name="kudus">Kudus</string>
+
+    <string-array name="asset_namaWisata">
+        <item>Air Terjun Montel</item>
+        <item>Air Terjun Pengantin</item>
+        <item>Air Terjun Rahtawu</item>
+        <item>Air Tiga Rasa Rejenu</item>
+        <item>Gray Canyon Kudus</item>
+        <item>Situs Pati Ayam</item>
+        <item>Taman Oasis</item>
+        <item>WaterBoom Mulia Kudus</item>
+        <item>Wisata Releigi Menara Kudus</item>
+        <item>Wisata Kudus Terbaru Menara Pisang</item>
+        <item>Bumi Perkemahan dan Wana Wisata Kajar</item>
+        <item>Desa Wisata Rahtawu Kudus</item>
+        <item>Desa Wisata Wonosoco Kudus</item>
+    </string-array>
+
+    <array name="asset_gambarWisata">
+        <item>@drawable/airterjun</item>
+        <item>@drawable/air_terjun_pengantin</item>
+        <item>@drawable/air_terjun_rahtawu</item>
+        <item>@drawable/air_tiga_rasa_rejenu</item>
+        <item>@drawable/gray_canyon_kudus</item>
+        <item>@drawable/situs_pati_ayam</item>
+        <item>@drawable/taman_oasis</item>
+        <item>@drawable/waterboom_mulia_kudus</item>
+        <item>@drawable/wisata_releigi_menara_kudus</item>
+        <item>@drawable/wisata_kudus_terbaru_menara_pisang</item>
+        <item>@drawable/bumi_perkemahan_dan_wana_wisata_kajar</item>
+        <item>@drawable/desa_wisata_rahtawu_kudus</item>
+        <item>@drawable/desa_wisata_wonosoco_kudus</item>
+    </array>
+    <array name="asset_backdropWisata">
+        <item>@drawable/kudus</item>
+        <item>@drawable/kudus</item>
+        <item>@drawable/kudus</item>
+        <item>@drawable/kudus</item>
+        <item>@drawable/kudus</item>
+        <item>@drawable/kudus</item>
+        <item>@drawable/kudus</item>
+        <item>@drawable/kudus</item>
+        <item>@drawable/kudus</item>
+        <item>@drawable/kudus</item>
+        <item>@drawable/kudus</item>
+        <item>@drawable/kudus</item>
+    </array>
+
+    <string-array name="asset_alamatwisata">
+        <item>Desa Kajar, Kec. Dawe, Kudus</item>
+        <item>Dusun Bakaran, Piji, Kec. Dawe, Kudus</item>
+        <item>Desa Rahtawu, Kec. Gebog, Kudus</item>
+        <item>Desa Japan, Kec. Dawe, Kudus</item>
+        <item>Desa Tanjung Rejo, Kec. Jekulo, Kudus</item>
+        <item>Desa Terban, Kec. Jekulo, Kudus</item>
+        <item>Desa Gondangmanis, Kec Bae,Kudus</item>
+        <item>Jalan Kudus - Colo km 12 Desa Lau, Kec Bae</item>
+        <item>Desa Kauman, Kec. Kota, Kudus</item>
+        <item>Dukuh Watu Lumpang, Desa Kajar, Kec. Dawe, Kudus</item>
+        <item>Kawasan Hutan Pinus, berjarak 3km dari makam Sunan Muria</item>
+        <item>Desa Rahtawu, Kec. Gebog</item>
+        <item>Desa Wonosoco, Kec. Undaan</item>
+    </string-array>
+
+    <string-array name="asset_jeniswisata">
+        <item>Wisata Alam</item>
+        <item>wisata Alam</item>
+        <item>Wisata Alam</item>
+        <item>Wisata Alam</item>
+        <item>Wisata Alam</item>
+        <item>Wisata Sejarah</item>
+        <item>Taman</item>
+        <item>Wisata anak anak</item>
+        <item>Wisata Religi</item>
+        <item>Taman</item>
+        <item>Wisata Alam</item>
+        <item>Wisata Alam</item>
+        <item>Wisata Alam</item>
+    </string-array>
+    <string-array name="asset_deskripsiwisata">
+        <item>Air Terjun Montel ini, sudah memiliki fasilitas yang cukup memadai, terdapat mushola, tempat parkir yang luas, warung makan, kios yang menjual berbagai makanan ataupun cinderamata khas Colo.Harga Tiket masuk juga cukup terjangkau, hanya Rp. 5000,-/orang.</item>
+        <item>Air Terjun Pengantin tidak hanya boleh didatangi oleh pengantin yak, namun siapa aja boleh datang. Dinamai air terjun pengantin karena dibagian tengah air terjun ini terdapat batu yang membelah air terjun ini menjadi dua bagian. Air terjun ini juga dinamai air terjun kembar, disana kalian bisa mandi sepuasnya, jadi jangan lupa bawa baju ganti ya.</item>
+        <item>Dari namanya kita bisa menebak air terjun ini ada dimana, yah di desa Rahtawu, kec Gebog. Bagi anda pecinta alam, air terjun Rahtawu wajib masuk ke daftar tempat wisata Kudus yang akan dikunjungi.Pastikan juga jangan sampai kita mengotori tempatnya ya.</item>
+        <item>Air Tiga Rasa Rejenu adalah sebuah sendang atau sumber air yang diyakini memiliki khasiat yang unik. cerita mengenai khasiat ini sudah turun temurun dan hingga kini sebagian orang masih mempercayainya.Ada tiga rasa di sumber air rejenu ini, yang pertama memiliki rasa tawar tawar masam, yang kedua anda akan merasakan air yang mirip dengan minuman ringan bersoda, yang ketiga memiliki rasa mirip minuman keras/ tuak.</item>
+        <item>Gray Canyon menjadi wisata di Kudus yang menarik untuk dikunjungi selanjutnya. Objek wisata yang unik ini sangat mirip dengan green canyon yang ada di Amerika sana.Karena aktivitas penambangan bahan galian C, sebuah kawasan perbukitan kini menjadi objek wisata yang mirip dengan green canyon di luar negeri.</item>
+        <item>Di Situs Patiayam ini, kita bisa melihat dan mengenal berbagai macam fosil yang pernah ditemukan warga sekitar. Kawasan Pati Ayam ditengarai merupakan pusat peradaban manusia purba, sehingga banyak ditemukan berbagai fosil seperti gading gajah purba, gigi geraham dll.</item>
+        <item>Taman Oasis menjadi tempat nongkrong di Kudus, taman ini dibangun oleh PT Djarum. Taman ini sendiri berada di Desa Gondangmanis, Kec. Bae. Beberapa pohon tampak tumbuh di sekitar taman dengan ruput rumput yang  tertata cukup rapi.</item>
+        <item>Waterboom Mulia ini menjadi salah satu wahana liburan di Kudus yang wajib di kunjungi untuk liburan keluarga. Untuk manambah keseruan permainan disini, pengelola menyediakan berbagai wahana permainan, seperti kolam berarus, ember tumpah dan masih banyak lagi. Selain wahana air di wisata ini juga menyediakan kolam pemancingan bagi yang hobi mancing dan juga permainan ATV.</item>
+        <item>Bangunan Menara Kudus dibuat dari tumpukan batu bata yang beratap kayu berbentuk Limas. Dibagian menara terdapat beberapa pirang logam yang menempel, menurut cerita piring tersebut didatangkan langsung dari china. Lokasi menara ini ada di depan masjid Al Aqsa yang berfungsi sebagai penanda waktu Sholat. Disekitaran mmenara juga terdapat Makam Sunan Kudus.</item>
+        <item>Menara pisang juga salah satu tempat nongkrong wajib bagi anak anak muda, Menara ini berada di dalam kawasan wisata Outbound dan perkemahan Taman Sardi. Ditaman ini kita bisa menikmati pemandangan yang indah dari ketinggian, selain itu kita juga bisa mencoba berbagai wahana Outbound yang seru bersama keluarga.</item>
+        <item>Bumi Perkemahan dan Wana Wisata Kajar layak menjadi destinasi liburan di Kudus bersama Keluarga tercinta. Kawasan ini sangat cocok sebagai bumi perkemahan karena lokasinya yang berada diketinggian 600 mdpl dan banyak terdapat pohon pinus. Selain bersama keluarga, wahana ini juga pas untuk dijadikan tujuan pelatihan instansi atau organisasi.</item>
+        <item>Desa Wisata Rahtawu berada di ketinggian 1627 mdpl yang membuat udara disini begitu sejuk dan segar. Di Desa tersebut juga terdapat sungai yang jernih yang bisa anda gunakan untuk mandi dan bermain air. Selain menyuguhkan pemandangan alam pegunungan yang begitu menarik di kawasan tersebut juga terdapat bangunan bangunan pertapaan yang bisa anda jelajah.</item>
+        <item>Desa wisata Wonosoco Kudus ini ditempuh hanya sekitar 45 menit dari pusat Kota. Ada banyak objek wisata di Desa ini, mulai dari wisata goa, sendang dan petilasan. Kegiatan budaya disuguhkan oleh masyarakat Wonosoco secara rutin tiap tahun. Hanya dengan mengocek uang sebesar 3000 rupiah/orang mata pengunjung sudah dapat dimanjakan akan indahnya pemandangan khas pegunungan.</item>
+    </string-array>
+
+    <array name="asset_gambarKuliner">
+        <item>@drawable/ayamgongso</item>
+        <item>@drawable/garangasem</item>
+        <item>@drawable/intip</item>
+        <item>@drawable/lentogtanjung</item>
+        <item>@drawable/lepet</item>
+        <item>@drawable/nasipindang</item>
+        <item>@drawable/oporbakar</item>
+        <item>@drawable/pecelpakiscolo</item>
+        <item>@drawable/satekerbau</item>
+        <item>@drawable/sotokudus</item>
+    </array>
+    <array name="asset_backdropkuliner">
+        <item>@drawable/backdropkuliner</item>
+        <item>@drawable/backdropkuliner</item>
+        <item>@drawable/backdropkuliner</item>
+        <item>@drawable/backdropkuliner</item>
+        <item>@drawable/backdropkuliner</item>
+        <item>@drawable/backdropkuliner</item>
+        <item>@drawable/backdropkuliner</item>
+        <item>@drawable/backdropkuliner</item>
+        <item>@drawable/backdropkuliner</item>
+        <item>@drawable/backdropkuliner</item>
+    </array>
+
+    <string-array name="asset_namaKuliner">
+        <item>Ayam Gongso</item>
+        <item>Garang Asem</item>
+        <item>Intip</item>
+        <item>Lentog Tanjung</item>
+        <item>Lepet</item>
+        <item>nasi Pindang Kebo</item>
+        <item>Opor Bakar Sunggingan</item>
+        <item>Pecel Pakis Colo</item>
+        <item>Sate Kerbau</item>
+        <item>Soto Kudus</item>
+    </string-array>
+    <string-array name="asset_jeniskuliner">
+        <item>Wisata Kuliner Khas Kudus</item>
+        <item>Wisata Kuliner Khas Kudus</item>
+        <item>Wisata Kuliner Khas Kudus</item>
+        <item>Wisata Kuliner Khas Kudus</item>
+        <item>Wisata Kuliner Khas Kudus</item>
+        <item>Wisata Kuliner Khas Kudus</item>
+        <item>Wisata Kuliner Khas Kudus</item>
+        <item>Wisata Kuliner Khas Kudus</item>
+        <item>Wisata Kuliner Khas Kudus</item>
+        <item>Wisata Kuliner Khas Kudus</item>
+    </string-array>
+    <string-array name="asset_deskripsikuliner">
+        <item>Ayam gongso merupakan ayam yang dimasak dengan campuran bumbu kecap dan cabai. Rasanya sudah tentu manis dan gurih serta sedikit pedas, sangat menggugah selera. Ayam gongso selain disajikan dengan nasi putih hangat, bisa juga disajikan bersama dengan nasi goreng. Ayam gongso dapat anda dapatkan di Warung Makan Sadam, Kudus.</item>
+        <item>Makanan khas Kudus yang satu ini dapat anda dapatkan di Rumah Makan Sari Rasa. Garang asem adalah sejenis lauk yang dimasak dengan dibungkus daun pisang untuk kemudian dikukus atau digarang. Jenis lauk yang diolah pun bisa bermacam macam, diantaranya ayam, jeroan, ikan, jamur ataupun tahu. Sama dengan namanya, cita rasa masakan ini dominan asam karena diberi irisan tomat hijau.</item>
+        <item>Intip ketan adalah makanan yang dibuat dari ketan yang telah digiling hingga galus kemudian dicampur dengan parutan kelapa untuk kemudian dimasak di atas wajan yang terbuat dari tanah liat serta tidak lupa diberi taburan gula putih di atasnya. Saat tradisi Dandangan digelar, anda dapat dengan mudah menemui pedagang intip ketan bersama dengan menjamurnya pedagang kerak telor.</item>
+        <item>Makanan khas Kudus lentog merupakan campuran dari lontong dengan sayur lodeh. Sebagai pelengkap biasanya ditambah dengan sate telur puyuh khas Kudus berbumbu khusus. Lentog banyak dijajakan oleh pedagang kaki lima yang mudah anda temui di seantero Kudus.</item>
+        <item>Makanan khas Kudus yang satu ini sering disajikan saat lebaran tiba. Terbuat dari beras ketan yang dicampur dengan kelapa parut kemudian dibungkus dengan daun kelapa dan diolah dengan cara direbus. Isi dari adonan lepet biasanya adalah kacang tolo, namun sekarang sudah mengalami modifikasi yaitu diisi dengan nangka atau pisang. </item>
+        <item>Makanan khas nasi pindang kerbau ini berasal dari lereng Gunung Muria tepatnya dari daerah Desa Colo. Nasi pindang berisikan nasi dengan irisan daging dan daun melinjo yang disiram dengan kuah santan. Sama seperti soto khas Kudus, daging yang dipakai adalah daging kerbau. Nasi pindang sekilas mirip dengan nasi rawon hanya saja kuahnya dicampur dengan keluak dan daun melino sehingga menjadikan makanan ini sajian kuliner yang istimewa.</item>
+        <item>Makanan khas Kota Kudus yang satu ini dapat anda temui di Jalan Niti Semito Nomor 9, Kudus. Nasi opor yang menjadi andalan di rumah makan ini dibanderol dengan harga 7 ribu rupiah saja lengkap dengan suwiran ayam dan juga potongan tahu kecil. Keunikan dari nasi opor ini adalah sendoknya yang digunakan untuk menyantap dibuat dari daun pisang yang dilipat.</item>
+        <item>Makanan ini juga berasal dari Desa Colo, sama seperti nasi pindang Kerbau. Anda bisa menyantap pecel pakis colo ini setelah berziarah ke makan Sunan Muria. Satu porsi pecel pakis solo berisikan pakis, tauge, kacang panjang, kacang tanah, gula merah, dan cabai keriting.</item>
+        <item>Tekstur dagingnya empuk mirip dengan dendeng sapi dan rasanya sangat lezat. Sate kerbau banyak dijual di sekitar Jalan Gang I, Jalan Gang III, maupun Jalan Pemuda, Kota Kudus. Penjual sate kerbau yang paling legendaris di Kudus adalah sate kudu Pak Min yang berjualan dari pukul setengah 8 sampe 10 pagi.</item>
+        <item>Daging kerbau banyak dijadikan olahan dalam masakan oleh warga Kudus sebagai bentuk penghormatan kepada agama Hindu yang dibawa oleh Sunan Kudus dan menggantikan daging sapi. Begitu juga dengan soto kerbau ini, jika biasanya anda menemukan soto berisikan daging sapi, di Kudus anda akan menemukan soto berisikan daging kerbau.</item>
+    </string-array>
+</resources>
